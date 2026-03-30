@@ -148,6 +148,8 @@ language_tools.workspace = true
 languages = { workspace = true, features = ["load-grammars"] }
 line_ending_selector.workspace = true
 log.workspace = true
+magika.workspace = true
+ort = { workspace = true, features = ["download-binaries"] }
 markdown.workspace = true
 markdown_preview.workspace = true
 menu.workspace = true
